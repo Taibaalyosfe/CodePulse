@@ -1,6 +1,11 @@
 <div align="center" width="50">
 
+<h2>Hello Coders</h2>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+<p><strong>Reem_02006</strong></p>
+<p>📫 <a href="mailto:taibaalyosfee@gmail.com" target="_blank" rel="noopener noreferrer">Email me</a></p>
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -9,9 +14,9 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourGitHubUsername&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/YourName-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUsername) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=Reem_02006&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReem_02006&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Reem_02006-grey?style=flat&logo=telegram)](https://t.me/Reem_02006) <br>
 </div>
 
 <hr></hr>
@@ -45,11 +50,11 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Currently sharpening my skills in **Cybersecurity & Programming**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Passionate about exploring **GNU/Linux** and building secure systems. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C++, Java, Cybersecurity, or anything tech-related**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[YourTelegramUsername](https://t.me/YourTelegramUsername)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Telegram](https://t.me/Reem_02006)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-<a  href="https://github.com/YourGitHubUsername">
+<a  href="https://github.com/Reem_02006">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
