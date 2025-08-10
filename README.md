@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-  <h2 style="font-weight: bold; font-size: 36px; margin-bottom: 10px;">Taiba</h2>
+  <h2 style="font-weight: bold; font-size: 36px; margin-bottom: 10px;">Reem</h2>
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
 
@@ -11,11 +11,6 @@
     <br>
     [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
   </details>
-
-  <br>
-
-  ![Totals Hits](https://komarev.com/ghpvc/?username=Reem_02006&style=flat&color=orange&label=PROFILE+VIEWS)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReem_02006&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
   <br>
 
@@ -65,18 +60,6 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-  <a  href="https://github.com/Reem_02006">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-  </a>
-
-  <details>
-    <summary>More stats</summary>
-    <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-  </details>
-  
-  <hr></hr>
 
   **Code Cycle**<br>
 
