@@ -1,27 +1,36 @@
 <div align="center" width="50">
 
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /><br>
-
-  <p style="font-size: 24px; font-weight: bold; margin-top: 10px;">TaibaAlyousfi</p>
+  <h2 style="font-weight: bold; font-size: 36px; margin-bottom: 10px;">Taiba</h2>
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
 
   <p>📫 <a href="mailto:taibaalyosfee@gmail.com" target="_blank" rel="noopener noreferrer">Email me</a></p>
 
   <details>
-    <p><strong><summary>Busy coding & Vibing to :</summary></strong></p>
+    <summary><strong>Busy coding & Vibing to :</strong></summary>
+    <br>
     [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
   </details>
 
-  ![Totals Hits](https://komarev.com/ghpvc/?username=TaibaAlyousfi&style=flat&color=orange&label=PROFILE+VIEWS)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaibaAlyousfi&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+  <br>
 
-  [![telegram badge](https://img.shields.io/badge/TaibaAlyousfi-grey?style=flat&logo=telegram)](https://t.me/TaibaAlyousfi) <br>
+  ![Totals Hits](https://komarev.com/ghpvc/?username=Reem_02006&style=flat&color=orange&label=PROFILE+VIEWS)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReem_02006&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+  <br>
+
+  <p>
+    Find me on Telegram: 
+    <a href="https://t.me/Reem_02006" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Reem_02006-grey?style=flat&logo=telegram" alt="Telegram"/>
+    </a>
+  </p>
 
 </div>
 
-<hr></hr>
+<hr />
 
+<!-- الأدوات والتقنيات -->
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -47,15 +56,16 @@ class About extends Me {
   };
 }
 
+<br>
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Currently sharpening my skills in **Cybersecurity & Programming**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Passionate about exploring **GNU/Linux** and building secure systems. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C++, Java, Cybersecurity, or anything tech-related**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Telegram](https://t.me/TaibaAlyousfi)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Reem_02006](https://t.me/Reem_02006)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-  <a  href="https://github.com/TaibaAlyousfi">
+  <a  href="https://github.com/Reem_02006">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
