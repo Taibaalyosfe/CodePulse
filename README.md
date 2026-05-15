@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-  <h2 style="font-weight: bold; font-size: 36px; margin-bottom: 10px;">Reem</h2>
+  <h2 style="font-weight: bold; font-size: 36px; margin-bottom: 10px;">ERROR</h2>
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
 
@@ -17,7 +17,7 @@
   <p>
     Find me on Telegram: 
     <a href="https://t.me/Reem_02006" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Reem_02006-grey?style=flat&logo=telegram" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/ERR_OR_403-grey?style=flat&logo=telegram" alt="Telegram"/>
     </a>
   </p>
 
