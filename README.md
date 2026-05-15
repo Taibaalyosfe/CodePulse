@@ -16,7 +16,7 @@
 
   <p>
     Find me on Telegram: 
-    <a href="https://t.me/Reem_02006" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/ERR_OR_403" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ERR_OR_403-grey?style=flat&logo=telegram" alt="Telegram"/>
     </a>
   </p>
